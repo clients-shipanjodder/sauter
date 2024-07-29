@@ -1,0 +1,5 @@
+div.cd-primary-nav,header,#footer-area,.copy-right,#qc-cmp2-container{
+    display:none;
+    visibility:hidden;
+    opacity:0;
+}
